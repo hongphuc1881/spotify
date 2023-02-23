@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/hongphuc1881/spotify/static/css/main.39b9b60b.css",
-    "main.js": "/hongphuc1881/spotify/static/js/main.6af21ea0.js",
-    "static/js/787.a19c38e9.chunk.js": "/hongphuc1881/spotify/static/js/787.a19c38e9.chunk.js",
-    "index.html": "/hongphuc1881/spotify/index.html",
-    "main.39b9b60b.css.map": "/hongphuc1881/spotify/static/css/main.39b9b60b.css.map",
-    "main.6af21ea0.js.map": "/hongphuc1881/spotify/static/js/main.6af21ea0.js.map",
-    "787.a19c38e9.chunk.js.map": "/hongphuc1881/spotify/static/js/787.a19c38e9.chunk.js.map"
+    "main.css": "/spotify/static/css/main.39b9b60b.css",
+    "main.js": "/spotify/static/js/main.e941581e.js",
+    "static/js/787.a19c38e9.chunk.js": "/spotify/static/js/787.a19c38e9.chunk.js",
+    "index.html": "/spotify/index.html",
+    "main.39b9b60b.css.map": "/spotify/static/css/main.39b9b60b.css.map",
+    "main.e941581e.js.map": "/spotify/static/js/main.e941581e.js.map",
+    "787.a19c38e9.chunk.js.map": "/spotify/static/js/787.a19c38e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.39b9b60b.css",
-    "static/js/main.6af21ea0.js"
+    "static/js/main.e941581e.js"
   ]
 }
